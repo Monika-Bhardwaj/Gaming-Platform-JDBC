@@ -126,4 +126,18 @@ GitHub: https://github.com/Monika-Bhardwaj
 
 Email: doctormonika5@gmail.com
 
+---
+
+⚠️ Troubleshooting
+
+Ensure your database is running and accessible with the credentials in config.properties.
+
+Make sure the JDBC driver is on your classpath when running the app.
+
+Check that the schema.sql script has been executed successfully and tables are created.
+
+---
+
+Thanks for using Gaming-Platform-JDBC! Happy gaming and coding! 🎮
+
 
